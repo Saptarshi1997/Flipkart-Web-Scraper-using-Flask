@@ -30,8 +30,8 @@ Use this command: pip install -r requirements.txt
 
 # Step-4: Run the flask server
 Example: Run with the coderunner in case of you are using VS Code
---> Please check the server which is running in console is localhost:5000 or not
 
+--> Please check the server which is running in console is localhost:5000 or not
 
 --> Go to any browser and search for: http://localhost:5000
 
